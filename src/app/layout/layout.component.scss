@@ -1,0 +1,17 @@
+.badge-evento {
+  font-size: 13px;
+
+  .notificaciones {
+    position: relative;
+
+    .hay-notificaciones {
+      position: absolute;
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      border: 1px solid black;
+      right: 0px;
+      top: 0px;
+    }
+  }
+}
